@@ -1,0 +1,18 @@
+.Button{
+    border: solid black 1px;
+    padding: 10px 5px 10px 5px;
+    color: white;
+}
+
+.primary{
+    background-color: blue;
+}
+.secondary{
+    background-color: violet;
+}
+.success{
+    background-color: green;
+}
+.danger{
+    background-color: red;
+}
